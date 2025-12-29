@@ -102,7 +102,6 @@ This project follows **real-world data engineering best practices**, covering in
 │   ├── raw/
 │   └── processed/
 ├── notebooks/
-├── scripts/
 ├── sql/
 ├── dashboards/
 └── README.md
